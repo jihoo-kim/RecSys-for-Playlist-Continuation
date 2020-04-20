@@ -1,7 +1,7 @@
 # RecSys-for-Playlist-Continuation
 
 ## 2018
-### RecSys Challenge 2018: Automatic Music Playlist Continuation
+### [RecSys Challenge 2018: Automatic Music Playlist Continuation](http://www.recsyschallenge.com/2018/)
 #### 1) Neighborhood-based approaches:
 - Efficient K-NN for Playlist Continuation (RecSys'18 Challenge)
 - Effective Nearest-Neighbor Music Recommendations (RecSys'18 Challenge)
