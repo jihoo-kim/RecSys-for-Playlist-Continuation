@@ -28,11 +28,15 @@
 
 
 ## 2019
-- [[Paper]](https://www.researchgate.net/publication/337117573_A_Hybrid_Recommender_System_for_Improving_Automatic_Playlist_Continuation) A Hybrid Recommender System for Improving Automatic Playlist Continuation (TKDE'19)
+### Conferences
 - [[Paper]](http://pchandar.github.io/static/Gruson2019-a2c9a8576182dcb33019d20a7c7a51b7.pdf) Offline Evaluation to Make Decisions About Playlist Recommendation Algorithms (WSDM'19)
 - [[Paper]](http://web.cs.wpi.edu/~kmlee/pubs/tran19sigir.pdf) [[Code]](https://github.com/thanhdtran/MASR) Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation (SIGIR'19)
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314183.3323455) [[Code]](https://github.com/marcopoli/PLACeBo) Social Tags and Emotions as main Features for the Next Song To Play in Automatic Playlist Continuation (UMAP'19)
+
+### Journals
+- [[Paper]](https://www.researchgate.net/publication/337117573_A_Hybrid_Recommender_System_for_Improving_Automatic_Playlist_Continuation) A Hybrid Recommender System for Improving Automatic Playlist Continuation (TKDE'19)
 - [[Paper]](https://arxiv.org/pdf/1810.01520) An Analysis of Approaches Taken in the ACM RecSys Challenge 2018 for Automatic Music Playlist Continuation (TIST'19)
 
 ## 2020
+### Conferences
 - [[Paper]](https://arxiv.org/pdf/1912.13031) Consistency-Aware Recommendation for User-Generated Item List Continuation (WSDM'20)
