@@ -1,7 +1,7 @@
 # RecSys-for-Playlist-Continuation
 
 ## 2018
-### [RecSys Challenge 2018: Automatic Music Playlist Continuation](http://www.recsyschallenge.com/2018/)
+### <[RecSys Challenge 2018: Automatic Music Playlist Continuation](http://www.recsyschallenge.com/2018/)>
 #### 1) Neighborhood-based approaches:
 - [[Paper]](https://eprints.sztaki.hu/9560/1/Kelen_1_30347064_ny.pdf) [[Code]](https://github.com/proto-n/recsys-challenge-2018) Efficient K-NN for Playlist Continuation (RecSys'18 Challenge)
 - [[Paper]](https://web-ainf.aau.at/pub/jannach/files/Workshop_RecSys_Challenge_2018.pdf) [[Code]](https://github.com/rn5l/rsc18) Effective Nearest-Neighbor Music Recommendations (RecSys'18 Challenge)
@@ -28,7 +28,7 @@
 
 
 ## 2019
-### Conferences
+### <Conferences>
 - [[Paper]](http://pchandar.github.io/static/Gruson2019-a2c9a8576182dcb33019d20a7c7a51b7.pdf) Offline Evaluation to Make Decisions About Playlist Recommendation Algorithms (WSDM'19)
 - [[Paper]](http://web.cs.wpi.edu/~kmlee/pubs/tran19sigir.pdf) [[Code]](https://github.com/thanhdtran/MASR) Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation (SIGIR'19)
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3314183.3323455) [[Code]](https://github.com/marcopoli/PLACeBo) Social Tags and Emotions as main Features for the Next Song To Play in Automatic Playlist Continuation (UMAP'19)
