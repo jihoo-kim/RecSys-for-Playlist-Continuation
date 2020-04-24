@@ -36,3 +36,7 @@
 ### Journals
 - [[Paper]](https://www.researchgate.net/publication/337117573_A_Hybrid_Recommender_System_for_Improving_Automatic_Playlist_Continuation) A Hybrid Recommender System for Improving Automatic Playlist Continuation (TKDE'19)
 - [[Paper]](https://arxiv.org/pdf/1810.01520) An Analysis of Approaches Taken in the ACM RecSys Challenge 2018 for Automatic Music Playlist Continuation (TIST'19)
+
+## 2020
+### Conferences
+- [[Paper]](http://people.tamu.edu/~yunhe/pubs/WSDM2020.pdf) [[Code]](https://github.com/heyunh2015/ListContinuation_WSDM2020) Consistency-Aware Recommendation for User-Generated ItemList Continuation (WSDM'20)
