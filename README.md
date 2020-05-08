@@ -40,3 +40,4 @@
 ## 2020
 ### Conferences
 - [[Paper]](http://people.tamu.edu/~yunhe/pubs/WSDM2020.pdf) [[Code]](https://github.com/heyunh2015/ListContinuation_WSDM2020) Consistency-Aware Recommendation for User-Generated ItemList Continuation (WSDM'20)
+- [[Paper](http://people.tamu.edu/~jwang713/pubs/curator-wsdm2020.pdf)] User Recommendation in Content Curation Platforms (WSDM'20)
